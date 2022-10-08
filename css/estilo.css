@@ -1,0 +1,63 @@
+body {
+ background: rgb(238, 191, 230);
+ font: normal 16px;
+ font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+color: rgb(105, 9, 76);
+text-align: center;
+margin: 15px;
+}
+
+h1 {
+    color: rgb(105, 9, 76);
+    text-align: center;
+    display: inline;
+    padding-right: 20px;
+    }
+
+span {
+    font-size: 35px;
+    color: rgb(102, 210, 30);
+    
+
+}
+
+p {
+    margin: 25px;
+}
+section {
+    background: rgb(252, 194, 249);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0,0.363);
+}
+footer {
+    text-align: center;
+    color: rgb(87, 10, 87);
+    font-style: italic;
+}
+
+img{
+    margin: 20px;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+#botao {
+    background-color: rgb(247, 136, 232);
+    font-size: 23px;
+    color: rgb(83, 8, 74);
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 16px;
+    border: 1px solid rgb(87, 10, 87);
+}
